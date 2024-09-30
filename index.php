@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php
-      echo "Hello World from Jenkins !!! EDited";
+      echo "Hello World from Jenkins !!! EDited Multibranch";
     ?>
   </body>
 </html>
