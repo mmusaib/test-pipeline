@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php
-      echo "Hello World from Jenkins !!! Staging Branch Auto";
+      echo "Hello World from Jenkins !!! Staging Branch";
     ?>
   </body>
 </html>
