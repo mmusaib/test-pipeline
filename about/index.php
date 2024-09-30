@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php
-      echo "About US from Jenkins !!! Stagng About";
+      echo "About US from Jenkins !!! Stagng About US";
     ?>
   </body>
 </html>
