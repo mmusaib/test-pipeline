@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php
-      echo "Hello World from Jenkins !!! Production Home";
+      echo "Hello World from Jenkins !!! Production Homepage";
     ?>
   </body>
 </html>
